@@ -5,7 +5,7 @@
     <AssemblyTitle>DotNetEnv</AssemblyTitle>
     <AssemblyVersion>1.2.0</AssemblyVersion>
     <PackageVersion>1.2.0</PackageVersion>
-    <TargetFramework>netstandard1.3</TargetFramework>
+    <TargetFramework>v4.5.2</TargetFramework>
     <AssemblyName>DotNetEnv</AssemblyName>
     <OutputType>Library</OutputType>
     <PackageId>DotNetEnv</PackageId>
